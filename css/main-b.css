@@ -69,6 +69,12 @@ aside {
     width: 100%;
     padding: 1em;
     box-sizing: border-box;
+    position: relative;
+    -webkit-transition-duration: 2s;
+    -moz-transition-duration: 2s;
+    -ms-transition-duration: 2s;
+    -o-transition-duration: 2s;
+    transition-duration: 2s;
 }
 
 main {
